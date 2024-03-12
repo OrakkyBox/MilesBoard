@@ -26,3 +26,18 @@ if you wanna to find a cnc manu to make this keyboard, you'd better to 3d printi
 - top: M2.5 X 5  5PCS
 - bp-screws: M2.5 X 5 7PCS
 - case-screws: M2 X 10 4PCS
+
+
+## pictures
+
+![Miles-top](https://github.com/OrakkyBox/MilesBoard/assets/163145418/b18ece91-85e4-436a-a56a-42a2233f1935)
+
+![Miles-bp](https://github.com/OrakkyBox/MilesBoard/assets/163145418/f73da2ab-5771-4b7e-bb06-20f538818570)
+
+![Miles-back](https://github.com/OrakkyBox/MilesBoard/assets/163145418/bb4b7d99-9a6a-4ca7-8fea-e4d2ba09679f)
+
+![Miles -main](https://github.com/OrakkyBox/MilesBoard/assets/163145418/ad259464-4663-4772-93b9-4e741c1771d9)
+
+
+
+
