@@ -23,7 +23,7 @@ if you wanna to find a cnc manu to make this keyboard, you'd better to 3d printi
 
 ## screws
 
-- top: M2.5 X 5  5PCS
+- top: M2.5 X 8  5PCS
 - bp-screws: M2.5 X 5 7PCS
 - case-screws: M2 X 10 4PCS
 
