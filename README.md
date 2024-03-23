@@ -2,6 +2,12 @@
 
 Under GPL License which means if you changed model , you have to open souce your model .
 
+## contact me !!!
+
+Discord:orakky
+Ins: orakkyyyu
+email: yurikoboard@163.com
+
 ## before download !!!
 
 This is keyboard is open souce 3d model files which is inspired by monokei kei. Show Respect to Monokei and bisoromi.
