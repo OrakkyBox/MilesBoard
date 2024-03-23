@@ -4,8 +4,8 @@ Under GPL License which means if you changed model , you have to open souce your
 
 ## contact me !!!
 
-Discord:orakky
-Ins: orakkyyyu
+Discord:orakky \
+Ins: orakkyyyu \
 email: yurikoboard@163.com
 
 ## before download !!!
