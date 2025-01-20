@@ -6,7 +6,7 @@ Under GPL License which means if you changed model , you have to open souce your
 
 Discord:orakky \
 Ins: orakkyyyu \
-email: yurikoboard@163.com
+email: orakkybox@gmail.com
 
 ## before download !!!
 
